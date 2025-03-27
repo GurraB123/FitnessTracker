@@ -1,0 +1,7 @@
+C:\Users\Gustav.Bergqvist\Desktop\Dev cases\Training App v2\FitnessTracker\FitnessTracker.API\obj\Debug\net8.0\FitnessTracker.API.csproj.AssemblyReference.cache
+C:\Users\Gustav.Bergqvist\Desktop\Dev cases\Training App v2\FitnessTracker\FitnessTracker.API\obj\Debug\net8.0\FitnessTracker.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustav.Bergqvist\Desktop\Dev cases\Training App v2\FitnessTracker\FitnessTracker.API\obj\Debug\net8.0\FitnessTracker.API.AssemblyInfoInputs.cache
+C:\Users\Gustav.Bergqvist\Desktop\Dev cases\Training App v2\FitnessTracker\FitnessTracker.API\obj\Debug\net8.0\FitnessTracker.API.AssemblyInfo.cs
+C:\Users\Gustav.Bergqvist\Desktop\Dev cases\Training App v2\FitnessTracker\FitnessTracker.API\obj\Debug\net8.0\FitnessTracker.API.csproj.CoreCompileInputs.cache
+C:\Users\Gustav.Bergqvist\Desktop\Dev cases\Training App v2\FitnessTracker\FitnessTracker.API\obj\Debug\net8.0\FitnessTracker.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gustav.Bergqvist\Desktop\Dev cases\Training App v2\FitnessTracker\FitnessTracker.API\obj\Debug\net8.0\FitnessTracker.API.MvcApplicationPartsAssemblyInfo.cache

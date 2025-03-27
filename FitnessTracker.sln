@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitnessTracker.API", "FitnessTracker.API\FitnessTracker.API.csproj", "{67771559-2D27-40C4-B44D-858CA07D3877}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitnessTracker.Tests", "FitnessTracker.Tests\FitnessTracker.Tests.csproj", "{70CE47C3-2717-4086-B994-68FF1C7D5354}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67771559-2D27-40C4-B44D-858CA07D3877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67771559-2D27-40C4-B44D-858CA07D3877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67771559-2D27-40C4-B44D-858CA07D3877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67771559-2D27-40C4-B44D-858CA07D3877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70CE47C3-2717-4086-B994-68FF1C7D5354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70CE47C3-2717-4086-B994-68FF1C7D5354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70CE47C3-2717-4086-B994-68FF1C7D5354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70CE47C3-2717-4086-B994-68FF1C7D5354}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
